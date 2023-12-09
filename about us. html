@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>About Us - Golden Clock</title>
+</head>
+<body>
+
+<header>
+    <h1>About Golden Clock</h1>
+    <p>Discover the story behind our culinary journey</p>
+</header>
+
+<section id="story">
+    <h2>Our Story</h2>
+    <p>Welcome to Golden Clock, where passion meets flavor. Our journey began with a simple idea: to create a space where people can experience the warmth of delicious food and genuine hospitality. Every dish we serve tells a story of dedication and love for culinary art.</p>
+    <p>At Golden Clock, we believe in using the finest ingredients to craft dishes that delight the senses. Our chefs bring their expertise to the kitchen, creating a menu that reflects a perfect blend of tradition and innovation.</p>
+</section>
+
+<section id="mission">
+    <h2>Our Mission</h2>
+    <p>Our mission is to provide a memorable dining experience that goes beyond the ordinary. We are committed to serving exceptional food in a welcoming atmosphere, where every guest feels like a part of our extended family.</p>
+    <p>With a focus on quality, creativity, and sustainability, we strive to exceed the expectations of our guests. Golden Clock is not just a restaurant; it's a celebration of flavors and a gathering place for those who appreciate the art of dining.</p>
+</section>
+
+<footer>
+    <p>&copy; 2023 Golden Clock Restaurant. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
