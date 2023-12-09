@@ -1,0 +1,229 @@
+#contact-form {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#contact-form form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+#contact-form label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+#contact-form input,
+#contact-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#contact-form button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#contact-form button:hover {
+    background-color: #45a049;
+}
+
+
+
+#reservation-form {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#reservation-form label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+#reservation-form input,
+#reservation-form select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#reservation-form button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#reservation-form button:hover {
+    background-color: #45a049;
+}
+
+
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FCCD04; /* Golden yellow */
+    color: #215732; /* Dark green */
+    text-align: center;
+    padding: 40px;
+}
+
+header h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+section {
+    padding: 40px;
+    background-color: #215732; /* Dark green */
+    color: #FCCD04; /* Golden yellow */
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.menu-item {
+    margin-bottom: 30px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    background-color: #FCCD04; /* Golden yellow */
+    color: #215732; /* Dark green */
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #FAB30F; /* Lighter yellow on hover */
+}
+body {
+    font-family: 'Your-Primary-Font', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://images.pexels.com/photos/1739748/pexels-photo-1739748.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    text-align: center;
+    padding: 40px;
+}
+
+header h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+}
+
+footer p {
+    font-size: 0.8em;
+}
+
+
+
+
+
+
+#about-us header {
+    background-color: #FCCD04; /* Golden yellow */
+    color: #215732; /* Dark green */
+    text-align: center;
+    padding: 40px;
+}
+
+#about-us header h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+#about-us header p {
+    font-size: 1.2em;
+}
+
+#about-us section {
+    padding: 40px;
+    background-color: #215732; /* Dark green */
+    color: #FCCD04; /* Golden yellow */
+}
+
+#about-us h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+#about-us p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+#about-us footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #FCCD04; /* Golden yellow */
+    color: #215732; /* Dark green */
+}
+
+#about-us footer p {
+    font-size: 0.8em;
+}
